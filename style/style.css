@@ -1,6 +1,32 @@
-body {
-		background-color: #FFCC66;
-		background-image: url("1.jpg");
-		background-repeat: no-repeat;
+html{
+    width: 320px;
+    height: 480px;
+    background-color: white;
+    text-align: center;
+    font-weight:bold; 
+}
+
+#title{
+    width: 304px;
+    height: 60px;
+    text-align: center;
+    vertical-align:bottom;
+    font-size: 30px; 
+    background-repeat:no-repeat;
+    background-image: url(Sky.jpg)
    
-	}
+    
+}
+
+#location{
+    font-size: 25px; 
+    font-family:Arial; 
+    margin-bottom: 1px;
+    background-color: lightgrey
+    
+}
+#date{
+    margin-top: 1px;
+    font-size: 25px; 
+    background-color: lightgrey
+}
